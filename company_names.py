@@ -15,6 +15,7 @@ company_names = [
     {"company_name": "TheVulkan's Voice Acting Company", "abbv": "VOIC"},
     {"company_name": "BarbosGaming's Gold Mine", "abbv": "GOLD"},
     {"company_name": "SenarisK's Coffee Company", "abbv": "COFE"},
+    {"company_name": "SebiTCR's Food Solutions", "abbv": "SFS"}
 ]
 
 
